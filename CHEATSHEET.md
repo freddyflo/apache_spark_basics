@@ -1,4 +1,4 @@
-# Apache Spark Basic
+# Apache Spark Basics
 
 
 ### Run Spark interactively in python interpreter
